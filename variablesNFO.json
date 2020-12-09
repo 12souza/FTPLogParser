@@ -1,0 +1,17 @@
+{
+    "path": "C:\\path to\\your ftpstatsnfo\\folder\\",
+    "imagepath": "http://inhouse.site.nfoservers.com/logalyzer/img",
+    "stylepath": "http://inhouse.site.nfoservers.com/logalyzer/img/style.css",
+    "despath": "C:\\path to\\your ftpstatsnfo\\folder\\",
+    "ftppath": "ftp path\\to your logs\\,
+    "sitepath" : "site ftp path\\where you want your\\parsed logs saved\\",
+    "TOKEN": "your discord bot token",
+    "URLPATH": "URL PATH FOR WHERE TO STORE LOGS ON FTP SITE",
+    "FTPHOST": "FTP HOST FOR SERVER",
+    "USER": "FTP USER FOR GAME SERVER",
+    "PASSWORD": "FTP PW FOR GAME SERVER",
+    "SITEHOST": "FTP HOST FOR SITE",
+    "USER2": "FTP USER FOR SITE",
+    "PASSWORD2": "FTP PASSWORD FOR SITE",
+    "DRIVE" : "C:"
+}
